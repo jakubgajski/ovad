@@ -1,4 +1,5 @@
-# OVAD - overload as you like  
+# WIP - early stage
+## OVAD - overload as you like  
   
 OVAD (OVerloAD) is a Python package, that allows seamless overloading methods / functions on arbitrary arguments either in Java-style or Python-style manner.  
 The name phonetically reassembles the Polish word "owad", which means insect. Why this name? Pure coincidence between set of phonetics of possible acronyms of "ovelroad" and Polish language.
